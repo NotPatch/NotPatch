@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/notpatch/notpatch/output/snake.svg" alt="Snake" />
+<img src="https://raw.githubusercontent.com/notpatch/notpatch/output/snake.svg" alt="Snake animation" />
 
 ###
