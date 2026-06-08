@@ -2,10 +2,10 @@
 I love making games with Rust and building full-stack products.
 
 ## 🎯 Skill Level Scale
-- **Beginner**: Temel kullanım, küçük denemeler
-- **Intermediate**: Gerçek proje geliştirme, günlük kullanım
-- **Advanced**: Karmaşık problemler, mimari kararlar
-- **Production**: Canlı ortam, bakım/ölçekleme deneyimi
+- **Beginner**: Basic usage and small experiments
+- **Intermediate**: Practical project development and regular usage
+- **Advanced**: Complex problem solving and architecture decisions
+- **Production**: Live environment, maintenance, and scaling experience
 
 # 💻 Tech Stack
 
@@ -45,6 +45,7 @@ I love making games with Rust and building full-stack products.
 ### Game Dev
 | Technology | Level | What I Use It For | Evidence |
 |---|---|---|---|
+| Rust | Intermediate | Game systems and performance-focused coding | Rust-focused game work |
 | Unity | Intermediate | Gameplay prototyping and game systems | Game-related repositories |
 
 ## Currently Learning
